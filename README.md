@@ -52,12 +52,3 @@ By running the collection process in standalone mode, Nk Collecter provides a si
 Download the latest Windows installer from the **Releases** section.
 
 `nk_collecter-1.0.0-win64.exe`
-
-## License
-
-NK Collecter is free to use for personal and commercial work.
-
-Copyright © Jn (제이앤).
-Developed and distributed under the **Jn Studio** brand.
-
-See the `LICENSE` file for full license terms.
