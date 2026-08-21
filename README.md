@@ -38,6 +38,7 @@ By running the collection process in standalone mode, Nk Collecter provides a si
 ## Preview
 
 ![NK Collecter Preview](images/nk_collecter_screenshot_1.jpg)
+![NK Collecter Preview](images/nk_collecter_screenshot_2.jpg)
 
 ## How to Use
 
