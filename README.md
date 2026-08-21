@@ -61,8 +61,3 @@ Copyright © Jn (제이앤).
 Developed and distributed under the **Jn Studio** brand.
 
 See the `LICENSE` file for full license terms.
-
----
-
-**NK Collecter** is an independent tool and is not affiliated with or endorsed by Foundry.
-
